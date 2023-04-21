@@ -4,6 +4,10 @@ In this repository you will find all experiments documented in Jupyter Notebooks
 
 **CONTENT:** (Spanish)
 
+* PRINCIPAL DOCUMENT **PROTOTIPO PARA LA DETECCIÓN DE CÁNCER DE MAMA BASADO EN CLASIFICACIÓN DE TERMOGRAMAS Y DATOS CLÍNICOS PARTE 2** (PROTOTIPO PARA LA DETECCIÓN DE CÁNCER DE MAMA BASADO EN CLASIFICACIÓN DE TERMOGRAMAS Y DATOS CLÍNICOS PARTE_2.pdf)
+
+* ANEXO_A **Conjuntos de Entrenamiento y Validación** (Anexo_A.ipynb)
+
 * ANEXO_A **Conjuntos de Entrenamiento y Validación** (Anexo_A.ipynb)
 
 * ANEXO_B **Explorando Datos para TRANSFORMACIÓN LINEAL** (Anexo_B.ipynb)
